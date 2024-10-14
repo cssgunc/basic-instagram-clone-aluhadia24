@@ -1,1 +1,83 @@
+.Follow {
+    border-radius: 10px; 
+    position: fixed; 
+    top: 30px; 
+    right: 500px; 
+    color: white;
+    background-color: #007FFF; 
+    border: 2px solid #007FFF;
+	padding: 10px;
 
+}
+.title {
+    position: fixed; 
+    top: 40px; 
+    right: 600px; 
+}
+.Message {
+    border-radius: 10px;
+    position: fixed; 
+    top: 30px; 
+    right: 400px; 
+    color: black; 
+    background-color: lightgrey; 
+    padding: 10px; 
+    border: 2px solid lightgrey; 
+    
+
+}
+
+.Stats{
+    position: fixed; 
+    top: 90px; 
+    right: 350px; 
+}
+
+.image1 { 
+    width: 100px; 
+    position: fixed; 
+    top: 20px; 
+    left: 10px; 
+}
+.image2{
+    width: 120px; 
+    position: fixed; 
+    top: 65px; 
+    left: 330px; 
+    border-radius: 50%; 
+    border: 2px solid lightgrey; 
+    padding: 20px; 
+}
+.image3{
+    width: 230px; 
+    position: fixed; 
+    top: 270px; 
+    left: 325px; 
+}
+
+.image4{
+    width: 230px; 
+    position: fixed; 
+    top: 270px; 
+    left: 570px; 
+}
+
+.image5{
+    width: 230px; 
+    position: fixed; 
+    top: 270px; 
+    left: 820px;  
+}
+
+.image6{
+    width: 200px; 
+    position: fixed; 
+    top: 20px; 
+    left: 120px; 
+}
+
+.bio{
+    position: fixed; 
+    top: 150px; 
+    right: 465px; 
+}
